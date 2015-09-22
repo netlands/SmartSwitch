@@ -10,3 +10,4 @@ Components used:
 
 Fritzing diagram:
 ![diagram](https://github.com/jvandenberg/SmartSwitch/raw/master/doc/smartswitch_bb.png)
+Note that there is an "internal pull-up" set on D2.
